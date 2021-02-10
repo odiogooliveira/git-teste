@@ -1,18 +1,19 @@
 {
-  "name": "yes",
+  "name": "git-teste",
   "version": "1.0.0",
-  "description": "node",
+  "description": "",
   "main": "index.html",
   "scripts": {
-    "test": "yes"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "yes"
+    "url": "git+https://github.com/odiogooliveira/git-teste.git"
   },
-  "keywords": [
-    "Estrelinha1!"
-  ],
-  "author": "Diogo Oliveira",
-  "license": "UNLICENSED"
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odiogooliveira/git-teste/issues"
+  },
+  "homepage": "https://github.com/odiogooliveira/git-teste#readme"
 }
