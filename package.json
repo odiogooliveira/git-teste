@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.html",
   "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/odiogooliveira/git-teste/issues"
   },
-  "homepage": "https://github.com/odiogooliveira/git-teste#readme"
+  "homepage": "https://github.com/odiogooliveira/git-teste#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
